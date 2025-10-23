@@ -1,0 +1,7 @@
+{
+  "name": "Hong Kong Culinary Explorer",
+  "description": "Discover the best restaurants near any location in Hong Kong with AI-powered recommendations. Simply enter a landmark or use your current location to find hidden culinary gems.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
